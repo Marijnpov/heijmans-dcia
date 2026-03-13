@@ -13,4 +13,5 @@ inside which five files/folders:
 
 
 After this create an environmental variable (create a file .env) and add a variable:
-- DATA_LOC="your_chosen_location/Data/"
+- DATA_LOC="your_chosen_location/Data/GENERAL SOURCES"
+- So the DATA_LOC should point to the directory with the above listed 5 files and 2 folders
